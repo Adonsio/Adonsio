@@ -5,7 +5,7 @@
 
 [![Adonsio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adonsio&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Personal projects wakatime stats:
+### Personal projects wakatime stats:
 [![Adonsio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Adonsio)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
